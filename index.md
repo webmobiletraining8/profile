@@ -29,8 +29,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Certifications
-
-`<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d0112922-0ff9-4410-92da-d8d1416541ca" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>`
+**Kubernetes**
+`https://www.youracclaim.com/badges/d0112922-0ff9-4410-92da-d8d1416541ca/public_url`
 
 ### Support or Contact
 
